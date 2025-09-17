@@ -1,0 +1,1 @@
+import React from 'react';import ReactDOM from 'react-dom/client';import QueenBoutique from './QueenBoutique.jsx';const root = ReactDOM.createRoot(document.getElementById('root'));root.render(<React.StrictMode><QueenBoutique /></React.StrictMode>);
