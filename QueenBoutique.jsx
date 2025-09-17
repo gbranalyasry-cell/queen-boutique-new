@@ -7,9 +7,6 @@ export default function QueenBoutique() { const [selected, setSelected] = useSta
 const filtered = PRODUCTS.filter(p => (p.title + p.subtitle + p.description).toLowerCase().includes(query.toLowerCase()) );
 
 return ( 
-
-ال
-
 الـمـلـكـة 
 
 عرض وتصفح - أزياء وفساتين مناسبات
